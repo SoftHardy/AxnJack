@@ -1,4 +1,15 @@
 # AxnJack
+The game was written in Unity3D. The game has an added functinality of VR. You can add your VR headset to move left or right with the help of TrinusVR. You will be needing a phone more than Android 6.0 or iOS 7.
+
+
+![111111](https://user-images.githubusercontent.com/32539405/31584641-f48a9648-b1cf-11e7-9afe-7869f0558fc7.png)
+![1111111](https://user-images.githubusercontent.com/32539405/31584642-f4d5aaca-b1cf-11e7-8aa6-b7b2f2d857e8.png)
+![1](https://user-images.githubusercontent.com/32539405/31584643-f513b842-b1cf-11e7-95c9-89c4948d5b7c.png)
+![11](https://user-images.githubusercontent.com/32539405/31584644-f551cfe2-b1cf-11e7-8763-1f44975fc7d6.png)
+![111](https://user-images.githubusercontent.com/32539405/31584645-f58f8792-b1cf-11e7-9812-85fe5f98e31b.png)
+![1111](https://user-images.githubusercontent.com/32539405/31584647-f5cc5550-b1cf-11e7-80d2-b2d0b1ff70d0.png)
+![11111](https://user-images.githubusercontent.com/32539405/31584648-f60cb140-b1cf-11e7-8a8c-4d2dc5c383a2.png)
+
 
 Ansal University
 
