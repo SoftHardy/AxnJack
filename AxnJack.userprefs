@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Camera Scripts\SmoothFollow.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Camera Scripts\SmoothFollow.js" Line="1" Column="1" />
+      <File FileName="Assets\WeaponScripts\AIAnimation.js" Line="1" Column="1" />
+      <File FileName="Assets\WeaponScripts\CharacterDamage.js" Line="1" Column="1" />
+      <File FileName="Assets\WeaponScripts\DamageReceiver.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
