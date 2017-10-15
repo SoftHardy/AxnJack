@@ -1,0 +1,67 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1404]
+    Renderer: Radeon (TM) HD 8670M
+    Vendor:   ATI
+    VRAM:     2040 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll (this message is harmless)
+Loading D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\Qualcomm.Vuforia.UnityExtensions.dll into Unity Child Domain
+- Completed reload, in  1.057 seconds
+Platform assembly: D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\New folder\yocv boulder\Documents\Unity3D Projects\AxnJack\AxnJackie_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.746937 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Hidden/Glow Downsample' - Pass '' has no vertex shader
+UnloadTime: 0.498338 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1350.
+Total: 0.436188 ms (FindLiveObjects: 0.080965 ms CreateObjectMapping: 0.057588 ms MarkObjects: 0.281669 ms  DeleteObjects: 0.015394 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 50.304817 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1382.
+Total: 25.336578 ms (FindLiveObjects: 0.216668 ms CreateObjectMapping: 0.139694 ms MarkObjects: 24.955126 ms  DeleteObjects: 0.022237 ms)
+
+WARNING: Shader Unsupported: 'BlurConeTap' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'BlurConeTap' - Setting to default shader.
+WARNING: Shader Unsupported: 'BlurConeTap' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'BlurConeTap' - Setting to default shader.
+WARNING: Shader Unsupported: 'BlitCopy' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'BlitCopy' - Setting to default shader.
+WARNING: Shader Unsupported: 'BlitMultiply' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'BlitMultiply' - Setting to default shader.
+WARNING: Shader Unsupported: 'BlitMultiplyDouble' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'BlitMultiplyDouble' - Setting to default shader.
+WARNING: Shader Unsupported: 'BlitAdd' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'BlitAdd' - Setting to default shader.
+WARNING: Shader Unsupported: 'BlitAddSmooth' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'BlitAddSmooth' - Setting to default shader.
+WARNING: Shader Unsupported: 'BlitBlend' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'BlitBlend' - Setting to default shader.
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 19f0 -> priority: 1 
